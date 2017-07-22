@@ -114,7 +114,8 @@ h6 {
       height: 40px; }
   #mainNav .navbar-collapse .navbar-nav > .nav-item > .nav-link {
     padding: 15px;
-    color: white; }
+    color: white;
+    font-weight: bold; }
     #mainNav .navbar-collapse .navbar-nav > .nav-item > .nav-link:hover, #mainNav .navbar-collapse .navbar-nav > .nav-item > .nav-link:focus {
       color: rgba(255, 255, 255, 0.5); }
     #mainNav .navbar-collapse .navbar-nav > .nav-item > .nav-link.active, #mainNav .navbar-collapse .navbar-nav > .nav-item > .nav-link.active:hover, #mainNav .navbar-collapse .navbar-nav > .nav-item > .nav-link.active:focus {
