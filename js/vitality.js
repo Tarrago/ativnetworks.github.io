@@ -75,6 +75,7 @@ $(document).ready(function() {
             "<i class='fa fa-angle-left'></i>",
             "<i class='fa fa-angle-right'></i>"
         ],
+        autoPlay: 4000,
     });
 
     $(".portfolio-carousel").owlCarousel({
