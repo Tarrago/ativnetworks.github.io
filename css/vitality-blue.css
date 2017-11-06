@@ -160,8 +160,8 @@ header.masthead {
     header.masthead {
       background-attachment: scroll; } }
   header.masthead .masthead-img {
-    max-width: 1000px;
-    max-height: 1000px; }
+    max-width: 150px;
+    max-height: 150px; }
   header.masthead .masthead-title {
     font-size: 4rem;
     line-height: 4rem;
@@ -200,8 +200,8 @@ header.masthead {
       padding-top: 0;
       padding-bottom: 0; }
       header.masthead .masthead-img {
-        max-width: 250px;
-        max-height: 250px; }
+        max-width: 650px;
+        max-height: 650px; }
       header.masthead .masthead-title {
         font-size: 5rem;
         line-height: 5rem; }
